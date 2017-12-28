@@ -46,7 +46,7 @@
         "nonce": "*",
         "redis": "0.12.1",
         "request": "*",
-        "stratum-pool": "git://github.com/dlocmelis/node-stratum-pool.git"
+        "stratum-pool": "https://github.com/dlocmelis/node-stratum-pool.git"
     },
     "engines": {
         "node": ">8.9"
